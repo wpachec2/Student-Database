@@ -1,0 +1,15 @@
+/Users/wilchec/Projects/StudentDatabase/StudentDatabase/bin/Debug/net6.0/StudentDatabase
+/Users/wilchec/Projects/StudentDatabase/StudentDatabase/bin/Debug/net6.0/StudentDatabase.deps.json
+/Users/wilchec/Projects/StudentDatabase/StudentDatabase/bin/Debug/net6.0/StudentDatabase.runtimeconfig.json
+/Users/wilchec/Projects/StudentDatabase/StudentDatabase/bin/Debug/net6.0/StudentDatabase.dll
+/Users/wilchec/Projects/StudentDatabase/StudentDatabase/bin/Debug/net6.0/StudentDatabase.pdb
+/Users/wilchec/Projects/StudentDatabase/StudentDatabase/obj/Debug/net6.0/StudentDatabase.csproj.AssemblyReference.cache
+/Users/wilchec/Projects/StudentDatabase/StudentDatabase/obj/Debug/net6.0/StudentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wilchec/Projects/StudentDatabase/StudentDatabase/obj/Debug/net6.0/StudentDatabase.AssemblyInfoInputs.cache
+/Users/wilchec/Projects/StudentDatabase/StudentDatabase/obj/Debug/net6.0/StudentDatabase.AssemblyInfo.cs
+/Users/wilchec/Projects/StudentDatabase/StudentDatabase/obj/Debug/net6.0/StudentDatabase.csproj.CoreCompileInputs.cache
+/Users/wilchec/Projects/StudentDatabase/StudentDatabase/obj/Debug/net6.0/StudentDatabase.dll
+/Users/wilchec/Projects/StudentDatabase/StudentDatabase/obj/Debug/net6.0/refint/StudentDatabase.dll
+/Users/wilchec/Projects/StudentDatabase/StudentDatabase/obj/Debug/net6.0/StudentDatabase.pdb
+/Users/wilchec/Projects/StudentDatabase/StudentDatabase/obj/Debug/net6.0/StudentDatabase.genruntimeconfig.cache
+/Users/wilchec/Projects/StudentDatabase/StudentDatabase/obj/Debug/net6.0/ref/StudentDatabase.dll
